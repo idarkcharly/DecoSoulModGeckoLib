@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": {
+			"model": "decorock:block/gem_block"
+		}
+	}
+}
