@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"clicked=false": {
+			"model": "decosoul:block/television_off"
+		},
+		"clicked=true": {
+			"model": "decosoul:block/television_on"
+		}
+	}
+}
